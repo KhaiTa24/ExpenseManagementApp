@@ -231,12 +231,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
 ## 🙏 Acknowledgments
 
 - Flutter Team for the amazing framework
